@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="sub_title">サブ画面タイトル</string>
+    <string name="名前を入力してください">名前を入力してください</string>
+    <string name="drink">drink</string>
+    <string name="food">food</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="namae">名前</string>
+    <string name="buttom">確認</string>
+    <string name="sendbuttom">送信</string>
+    <string name="clearbuttom">クリア</string>
+    <string name="profile">プロフィール</string>
+    <string name="Age">年代</string>
+    <string name="Sex">性別</string>
+    <string name="password">パスワードを入力してください</string>
+    <string name="clearbuttom2">クリア</string>
+    <string name="y10">10代</string>
+    <string name="y20">20代</string>
+    <string name="ｙ３０">30代</string>
+    <string name="dataText">データを入力してください</string>
+    <string name="dataButton">データ追加</string>
+    <string name="kanso">感想を入力してください</string>
+    <string name="cancelButtom">キャンセル</string>
+    <string name="resetButtom">リセット</string>
+    <string name="kansaku">検索</string>
+    <string name="camera">カメラ起動</string>
+    <string-array name="currylist">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+    </string-array>
+</resources>
